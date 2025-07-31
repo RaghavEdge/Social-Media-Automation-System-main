@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-# Social-Media-Automation-System
-The Social Media Automation System automates cross-posting, audience targeting, and content management across multiple platforms. It integrates third-party tools for scheduling, tracking analytics, and improving engagement. The system also provides performance reports to optimize social media strategies.
-=======
-# Social-Media-Automation-System-main
->>>>>>> 230222250f64db41cdfc5139050fc500ce2d85bf
+# Social Media Automation System
+This system helps you save time by automatically posting your content across different social media platforms. It lets you target the right audience, schedule posts, and track how your content is doing. With built-in tools and reports, you can see what’s working and improve your social media strategy over time.
